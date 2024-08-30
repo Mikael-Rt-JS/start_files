@@ -1,0 +1,2 @@
+# start_files
+старто
